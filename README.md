@@ -22,15 +22,8 @@ Anti-money laundering (AML) transaction monitoring software allows banks and oth
 
 By combining these information with analysis of customers’ historical information and account profile, the software can provide financial institutions with a “whole picture” analysis of a customer’s profile, risk levels, and predicted future activity, and can also generate reports and create alerts to suspicious activity.
 
-## Instructions
 
-1. Clone this repository using `git clone https://github.com/UtkarshChaurasia/Transaction-Monitoring.git`
-2. Install python using `sudo apt-get install python3.6`
-3. Switch to repository folder. 
-3. Install all the required libraries using `pip install -r requirements.txt`
-4. Run app.py file using `streamlit run app.py`
-5. Open the localhost link in your favourite browser.
-6. Now you can upload the Dummy Transaction Dataset and click the Predict button to know the potential Money Laundering cases.
+
 
 ## Future Prospects:
 
